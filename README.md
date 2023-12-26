@@ -1,2 +1,2 @@
 # AEIE-Departmental-website
-Website for AEIE departmental
+Website for AEIE department
